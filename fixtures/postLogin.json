@@ -1,0 +1,19 @@
+{
+    "usuarioValido" :{
+        "email": "usuarioteste@email.com",
+        "senha": "usuario123"
+    },
+    "usuarioEsperado": {
+        "nome": "Usuário Teste",
+        "email": "usuarioteste@email.com"
+    },
+    
+    "usuarioInvalido": {
+        "email": "usuarioinvalido@gmail.com",
+        "senha": "123456789"
+    },
+    "semInformarSenha": {
+        "email": "teste@teste.com",
+        "senha": ""
+    }
+}

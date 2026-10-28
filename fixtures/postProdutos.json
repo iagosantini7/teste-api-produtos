@@ -1,0 +1,18 @@
+{
+    "produtoValido": {
+        "codigo": "PROD-989",
+        "nome": "Parafuso Sextavado M8",
+        "unidade": "UN",
+        "valor": 4.99,
+        "quantidade": 500,
+        "descricao": "Parafuso galvanizado M8x25mm"
+    },
+    "produtoInvalido": {
+        "codigo": "",
+        "nome": "Parafuso B",
+        "unidade": "UN",
+        "valor": 4.90,
+        "quantidade": 500,
+        "descricao": "Parafuso B"
+    }
+}
