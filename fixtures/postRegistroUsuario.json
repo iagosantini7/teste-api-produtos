@@ -1,0 +1,17 @@
+{
+    "cadastroUsuarioValido": {
+        "nome": "Usuario novo 01",
+        "email": "usuarioNovo@gmail.com",
+        "senha": "usuario01"
+    },
+    "cadastroUsuarioEmailCadastrado": {
+        "nome": "Usuario novo 02",
+        "email": "usuarioNovo@gmail.com",
+        "senha": "usuario02"
+    },
+    "cadastroSenhaInvalida": {
+        "nome": "Usuario novo 03",
+        "email": "usuarioNovo03@gmail.com",
+        "senha": "123"
+    }
+}
